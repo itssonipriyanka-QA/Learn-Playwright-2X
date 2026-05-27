@@ -149,3 +149,4 @@ console.log(undefined == null);  // true — the only loose equality for undefin
 console.log(undefined + 1);      // NaN — undefined coerces to NaN in math
 
 // --- SUMMARY: always use === to avoid all the above surprises ---
+ let count = count + 1;
